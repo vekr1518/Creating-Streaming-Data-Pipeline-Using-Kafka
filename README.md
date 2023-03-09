@@ -7,7 +7,7 @@ the vehicle’s data like **vehicle_id**, **vehicle_type**, **toll_plaza_id** an
 Our job is to create a end-to-end data pipe line that collects the streaming data using **kafka** and load it into a s3.
 
 ## Architecture
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/vekr1518/Creating-Streaming-Data-Pipeline-Using-Kafka/blob/main/Architecture.jpg)
 
 ## Technology Used
 - Programming Language - Python
