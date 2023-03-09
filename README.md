@@ -13,9 +13,9 @@ In this assignment we will create a streaming data pipeline by performing these 
 - Start the Zoo-Keeper server
 - Start the Kafka server
 - Create a topic named **toll** in kafka.
-- Create a streaming generator program [GitHub Pages](https://pages.github.com/)
+- Create a streaming generator program [toll_traffic_generator_producer.ipynb](https://github.com/vekr1518/Creating-Streaming-Data-Pipeline-Using-Kafka/blob/main/toll_traffic_generator_producer.ipynb)
 - Produce the topic **toll** data
-- Consume the **toll** data using toll_traffic_consumer.ipynb
+- Consume the **toll** data using [toll_traffic_consumer.ipynb](https://github.com/vekr1518/Creating-Streaming-Data-Pipeline-Using-Kafka/blob/main/toll_traffic_generator_producer.ipynb)
 - Load data to s3
 - Create crawler to retrieve the data from s3 and create a table 
 - Analyse the data using Athena
