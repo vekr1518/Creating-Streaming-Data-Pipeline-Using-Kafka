@@ -4,7 +4,7 @@
 In this project, we are going to de-congest the traffic by analyzing the road traffic data from different toll gates. As a vehicle passes a toll, 
 the vehicle’s data like **vehicle_id**, **vehicle_type**, **toll_plaza_id** and **timestamp** are streamed to Kafka. 
 
-Our job is to create a end-to-end data pipe line that collects the streaming data using **kafka** and load it into a s3.
+Our job is to create a end-to-end data pipe line that collects the streaming data using **kafka** and load it into a s3 bucket for furhter analysis using Athena.
 
 ## Objectives:
 In this assignment we will create a streaming data pipeline by performing these steps:
