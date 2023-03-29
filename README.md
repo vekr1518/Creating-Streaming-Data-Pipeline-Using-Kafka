@@ -21,7 +21,7 @@ In this assignment we will create a streaming data pipeline by performing these 
 - Analyse the data using Athena
 
 ## Architecture
-![This is an image](https://github.com/vekr1518/Creating-Streaming-Data-Pipeline-Using-Kafka/blob/main/Architecture.jpg)
+![This is an image](https://github.com/vekr1518/Creating-Streaming-Data-Pipeline-Using-Kafka/blob/main/Architecture_Kafka.png)
 
 ## Technology Used
 - Programming Language - Python
